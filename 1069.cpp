@@ -17,6 +17,7 @@ int main(){
             len=1;
         }
     }
+    
     if(len>maxLen) maxLen=len;
     cout<<maxLen<<endl;
 }
