@@ -2,4 +2,4 @@
 Solution of CSES problem set.
 
 ## Introductory Problems
-  * [Weird Algorithm]()
+  * [Weird Algorithm](1068.cpp)
