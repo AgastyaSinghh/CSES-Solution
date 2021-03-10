@@ -7,7 +7,7 @@ Solution of CSES problem set.
   * [Repetitions](1069.cpp)
   * Increasing Array
   * Permutations
-  * Number Spiral
+  * Number Spiral(1071.cpp)
   * Two Knights
   * Two Sets
   * Bit Strings
