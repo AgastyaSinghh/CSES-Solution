@@ -4,7 +4,7 @@ Solution of CSES problem set.
 ## Introductory Problems
   * [Weird Algorithm](1068.cpp)
   * [Missing Numbers](1083.cpp)
-  * [Repetitions]
+  * [Repetitions](1069.cpp)
   * Increasing Array
   * Permutations
   * Number Spiral
