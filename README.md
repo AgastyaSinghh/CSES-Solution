@@ -5,7 +5,7 @@ Solution of CSES problem set.
   * [Weird Algorithm](1068.cpp)
   * [Missing Numbers](1083.cpp)
   * [Repetitions](1069.cpp)
-  * Increasing Array
+  * [Increasing Array](1094.cpp)
   * Permutations
   * [Number Spiral](1071.cpp)
   <!---* Two Knights
