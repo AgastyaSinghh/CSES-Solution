@@ -8,7 +8,7 @@ Solution of CSES problem set.
   * Increasing Array
   * Permutations
   * [Number Spiral](1071.cpp)
-  * Two Knights
+  <!---* Two Knights
   * Two Sets
   * Bit Strings
   * Trailing Zeros
@@ -21,6 +21,6 @@ Solution of CSES problem set.
   * Chessboard and Queens
   * Digit Queries
   * Grid Paths
-
+--->
 
 ## Sorting and Searching
