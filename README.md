@@ -24,3 +24,4 @@ Solution of CSES problem set.
 --->
 
 ## Sorting and Searching
+  * [Distinct Solution](1621.cpp)
