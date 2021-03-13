@@ -27,9 +27,9 @@ Solution of CSES problem set.
   * [Distinct Solution](1621.cpp)
 
 ## Dynamic Programming
-  * [Dice Combinations]
-  * [Minimizing Coins]
-  * [Coin Combinations I]
-  * [Coin Combinations II]
-  * [Removing Digits]
-  * [Grid Paths]
+  * [Dice Combinations](1633.cpp)
+  * [Minimizing Coins](1634.cpp)
+  * [Coin Combinations I](1635.cpp)
+  * [Coin Combinations II](1636.cpp)
+  * [Removing Digits](1637.cpp)
+  * [Grid Paths](1638.cpp)
