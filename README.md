@@ -25,3 +25,11 @@ Solution of CSES problem set.
 
 ## Sorting and Searching
   * [Distinct Solution](1621.cpp)
+
+## Dynamic Programming
+  * [Dice Combinations]
+  * [Minimizing Coins]
+  * [Coin Combinations I]
+  * [Coin Combinations II]
+  * [Removing Digits]
+  * [Grid Paths]
