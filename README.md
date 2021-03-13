@@ -30,6 +30,6 @@ Solution of CSES problem set.
   * [Dice Combinations](1633.cpp)
   * [Minimizing Coins](1634.cpp)
   * [Coin Combinations I](1635.cpp)
-  * Coin Combinations II [comment]:<!---[Coin Combinations II](1636.cpp) --->
+  * Coin Combinations II
   * [Removing Digits](1637.cpp)
   * [Grid Paths](1638.cpp)
