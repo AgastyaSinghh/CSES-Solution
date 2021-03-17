@@ -19,6 +19,7 @@ Solution of CSES problem set.
   * Creating Strings
   * Apple Division
   * Chessboard and Queens
+  * 
   * Digit Queries
   * Grid Paths
 --->
