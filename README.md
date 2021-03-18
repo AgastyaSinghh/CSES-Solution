@@ -8,7 +8,7 @@ Solution of CSES problem set.
   * [Increasing Array](1094.cpp)
   * [Permutations](1070.cpp)
   * [Number Spiral](1071.cpp)
-  * [Bit Strings](1617.cpp)
+  * [Bit Strings](1617.py)
 <!---* Two Knights
   * Two Sets
   
