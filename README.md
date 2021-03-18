@@ -8,9 +8,10 @@ Solution of CSES problem set.
   * [Increasing Array](1094.cpp)
   * [Permutations](1070.cpp)
   * [Number Spiral](1071.cpp)
-  <!---* Two Knights
+  * [Bit Strings](1617.cpp)
+<!---* Two Knights
   * Two Sets
-  * Bit Strings
+  
   * Trailing Zeros
   * Coin Piles
   * Palindrome Reorder
