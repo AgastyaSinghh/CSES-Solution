@@ -9,10 +9,12 @@ Solution of CSES problem set.
   * [Permutations](1070.cpp)
   * [Number Spiral](1071.cpp)
   * [Bit Strings](1617.py)
-<!---* Two Knights
+  * [Trailing Zeros](1618.cpp)
+<!---
+  * Two Knights
   * Two Sets
   
-  * Trailing Zeros
+
   * Coin Piles
   * Palindrome Reorder
   * Gray Code
