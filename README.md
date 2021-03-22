@@ -28,6 +28,7 @@ Solution of CSES problem set.
 
 ## Sorting and Searching
   * [Distinct Solution](1621.cpp)
+  * [Apartments](1084.cpp)
 
 ## Dynamic Programming
   * [Dice Combinations](1633.cpp)
