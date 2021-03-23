@@ -24,6 +24,7 @@ Solution of CSES problem set.
   * Chessboard and Queens
   * Digit Queries
   * Grid Paths
+  * ......trying
 --->
 
 ## Sorting and Searching
