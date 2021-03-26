@@ -40,3 +40,4 @@ Solution of CSES problem set.
   * [Removing Digits](1637.cpp)
   * [Grid Paths](1638.cpp)
   * [Book Shop](1158.cpp)
+  * [Money Sums](1745.cpp)
