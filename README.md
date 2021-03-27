@@ -13,8 +13,6 @@ Solution of CSES problem set.
 <!---
   * Two Knights
   * Two Sets
-  
-
   * Coin Piles
   * Palindrome Reorder
   * Gray Code
