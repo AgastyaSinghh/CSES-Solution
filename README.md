@@ -40,5 +40,5 @@ Solution of CSES problem set.
   * [Book Shop](1158.cpp)
   * [Money Sums](1745.cpp)
   
-## Dynamic Programming
+## Range Queries
   * [Static Range Sum Queries](1646.cpp)
