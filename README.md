@@ -39,3 +39,6 @@ Solution of CSES problem set.
   * [Grid Paths](1638.cpp)
   * [Book Shop](1158.cpp)
   * [Money Sums](1745.cpp)
+  
+## Dynamic Programming
+  * [Static Range Sum Queries](1646.cpp)
