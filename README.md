@@ -10,6 +10,7 @@ Solution of CSES problem set.
   * [Number Spiral](1071.cpp)
   * [Bit Strings](1617.py)
   * [Trailing Zeros](1618.cpp)
+  * [Apple Division](1623.cpp)
 <!---
   * Two Knights
   * Two Sets
@@ -18,7 +19,7 @@ Solution of CSES problem set.
   * Gray Code
   * Tower of Hanoi
   * Creating Strings
-  * Apple Division
+
   * Chessboard and Queens
   * Digit Queries
   * Grid Paths
