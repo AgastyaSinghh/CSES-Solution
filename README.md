@@ -8,6 +8,7 @@ Solution of CSES problem set.
   * [Increasing Array](1094.cpp)
   * [Permutations](1070.cpp)
   * [Number Spiral](1071.cpp)
+  * [Two Sets](1092.cpp)
   * [Bit Strings](1617.py)
   * [Trailing Zeros](1618.cpp)
   * [Apple Division](1623.cpp)
