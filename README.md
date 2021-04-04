@@ -32,6 +32,7 @@ Solution of CSES problem set.
   * [Distinct Solution](1621.cpp)
   * [Apartments](1084.cpp)
   * [Ferris Wheel](1090.cpp)
+  * [Concert Tickets](1091.cpp)
 
 ## Dynamic Programming
   * [Dice Combinations](1633.cpp)
