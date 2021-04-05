@@ -12,6 +12,7 @@ Solution of CSES problem set.
   * [Bit Strings](1617.py)
   * [Trailing Zeros](1618.cpp)
   * [Palindrome Reorder](1755.cpp)
+  * [Creating Strings](1622.cpp)
   * [Apple Division](1623.cpp)
 <!---
   * Two Knights
@@ -20,7 +21,7 @@ Solution of CSES problem set.
   
   * Gray Code
   * Tower of Hanoi
-  * Creating Strings
+  
 
   * Chessboard and Queens
   * Digit Queries
