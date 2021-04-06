@@ -34,6 +34,27 @@ Solution of CSES problem set.
   * [Apartments](1084.cpp)
   * [Ferris Wheel](1090.cpp)
   * [Concert Tickets](1091.cpp)
+  * Restaurant Customers
+  * Movie Festival
+  * Sum of Two Values
+  * Maximum Subarray Sum
+  * Stick Lengths
+  * Missing Coin Sum
+  * Collecting Numbers
+  * Collecting Numbers II
+  * Playlist
+  * Towers
+  * Traffic Lights
+  * Josephus Problem I
+  * Josephus Problem II
+  * Nested Ranges Check
+  * Nested Ranges Count
+  * Room Allocation
+  * Factory Machines
+  * Tasks and Deadlines
+  * Reading Books
+  * Sum of Three Values
+  * Sum of Four Values
 
 ## Dynamic Programming
   * [Dice Combinations](1633.cpp)
