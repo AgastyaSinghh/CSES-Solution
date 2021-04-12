@@ -65,7 +65,23 @@ Solution of CSES problem set.
   * [Grid Paths](1638.cpp)
   * [Book Shop](1158.cpp)
   * [Money Sums](1745.cpp)
-  
+ 
+ ## Graph Algorithms
+  * [Counting Rooms](1192.cpp)
+  * Labyrinth
+  * Building Roads
+  * Message Route
+  * Building Teams
+  * Round Trip
+  * Monsters
+  * Shortest Routes I
+  * Shortest Routes II
+  * High Score
+  * Flight Discount
+  * Cycle Finding
+  * Flight Routes
+  * Round Trip II
+
 ## Range Queries
   * [Static Range Sum Queries](1646.cpp)
   * [Static Range Minimum Queries](1647.cpp)
