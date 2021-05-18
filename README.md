@@ -35,7 +35,7 @@ Solution of CSES problem set.
   * [Ferris Wheel](1090.cpp)
   * [Concert Tickets](1091.cpp)
   * Restaurant Customers
-  * Movie Festival
+  * [Movie Festival](1629.cpp)
   * Sum of Two Values
   * Maximum Subarray Sum
   * Stick Lengths
