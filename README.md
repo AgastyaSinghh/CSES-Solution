@@ -36,7 +36,7 @@ Solution of CSES problem set.
   * [Concert Tickets](1091.cpp)
   * Restaurant Customers
   * [Movie Festival](1629.cpp)
-  * Sum of Two Values
+  * [Sum of Two Values](1640.cpp)
   * Maximum Subarray Sum
   * Stick Lengths
   * Missing Coin Sum
