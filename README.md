@@ -85,3 +85,4 @@ Solution of CSES problem set.
 ## Range Queries
   * [Static Range Sum Queries](1646.cpp)
   * [Static Range Minimum Queries](1647.cpp)
+
