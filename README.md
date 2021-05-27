@@ -11,6 +11,7 @@ Solution of CSES problem set.
   * [Two Sets](1092.cpp)
   * [Bit Strings](1617.py)
   * [Trailing Zeros](1618.cpp)
+  * [Coin Piles](1754.cpp)
   * [Palindrome Reorder](1755.cpp)
   * [Creating Strings](1622.cpp)
   * [Apple Division](1623.cpp)
