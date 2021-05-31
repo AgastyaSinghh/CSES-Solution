@@ -86,3 +86,35 @@ Solution of CSES problem set.
   * [Static Range Sum Queries](1646.cpp)
   * [Static Range Minimum Queries](1647.cpp)
 
+## Tree Algorithms
+  * [Subordinates](1674.cpp)
+3880 / 4163
+Tree Matching
+2123 / 2581
+Tree Diameter
+3173 / 3360
+Tree Distances I
+2220 / 2448
+Tree Distances II
+1854 / 1926
+Company Queries I
+1981 / 2100
+Company Queries II
+1905 / 1994
+Distance Queries
+1878 / 1988
+Counting Paths
+1176 / 1244
+Subtree Queries
+1392 / 1484
+Path Queries
+1149 / 1204
+Path Queries II
+277 / 340
+Distinct Colors
+993 / 1214
+Finding a Centroid
+513 / 536
+Fixed-Length Paths I
+254 / 287
+Fixed-Length Paths II
